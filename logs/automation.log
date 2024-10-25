@@ -1,0 +1,160 @@
+16:45:50.615 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:45:50.631 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:45:50.632 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:45:50.649 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:45:50.650 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:45:50.664 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:45:50.664 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:45:50.676 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:45:50.677 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:45:50.972 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC003_LoginDDT.verify_loginDDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC003_LoginDDT@3a5ecce3] 660034546
+16:45:50.972 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+16:45:50.972 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+16:45:50.972 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+16:45:50.972 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+16:50:36.383 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\tanve\eclipse-workspace\OpencartV121\masterTestng.xml
+
+16:53:52.653 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\tanve\eclipse-workspace\OpencartV121\masterTestng.xml
+
+17:09:52.273 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\tanve\eclipse-workspace\OpencartV121\masterTestng.xml
+
+17:09:57.654 [main] INFO  testCases.TC003_LoginDDT - ****** Starting TC003_LoginDDT *******
+17:10:07.243 [main] INFO  testCases.TC003_LoginDDT - ****** Finished TC003_LoginDDT *******
+17:10:07.251 [main] INFO  testCases.TC003_LoginDDT - ****** Starting TC003_LoginDDT *******
+17:10:24.669 [main] INFO  testCases.TC003_LoginDDT - ****** Finished TC003_LoginDDT *******
+17:10:24.675 [main] INFO  testCases.TC003_LoginDDT - ****** Starting TC003_LoginDDT *******
+17:10:41.968 [main] INFO  testCases.TC003_LoginDDT - ****** Finished TC003_LoginDDT *******
+17:10:41.972 [main] INFO  testCases.TC003_LoginDDT - ****** Starting TC003_LoginDDT *******
+17:10:50.373 [main] INFO  testCases.TC003_LoginDDT - ****** Finished TC003_LoginDDT *******
+22:15:59.256 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\tanve\eclipse-workspace\OpencartV121\grouping.xml
+
+22:16:03.964 [main] INFO  testCases.TC002_LoginTest - ****** Starting TC002_LoginTest *******
+22:16:06.219 [main] INFO  testCases.TC002_LoginTest - ****** Finished TC002_LoginTest *******
+22:16:54.182 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\tanve\eclipse-workspace\OpencartV121\grouping.xml
+
+22:16:58.325 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Starting TC001_AccountRegistrationTest *******
+22:16:58.443 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link..
+22:16:59.821 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link..
+22:16:59.824 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+22:17:00.850 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+22:17:10.880 [main] ERROR testCases.TC001_AccountRegistrationTest - Test failed..
+22:17:14.837 [main] INFO  testCases.TC002_LoginTest - ****** Starting TC002_LoginTest *******
+22:17:16.849 [main] INFO  testCases.TC002_LoginTest - ****** Finished TC002_LoginTest *******
+22:18:07.287 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\tanve\eclipse-workspace\OpencartV121\grouping.xml
+
+22:18:12.592 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Starting TC001_AccountRegistrationTest *******
+22:18:12.695 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link..
+22:18:13.403 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link..
+22:18:13.405 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+22:18:14.882 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+22:18:14.928 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Finished TC001_AccountRegistrationTest *******
+22:18:18.858 [main] INFO  testCases.TC002_LoginTest - ****** Starting TC002_LoginTest *******
+22:18:21.027 [main] INFO  testCases.TC002_LoginTest - ****** Finished TC002_LoginTest *******
+15:12:27.652 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\tanve\eclipse-workspace\OpencartV121\grouping.xml
+
+15:12:35.363 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Starting TC001_AccountRegistrationTest *******
+15:12:35.474 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link..
+15:12:36.163 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link..
+15:12:36.166 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+15:12:37.200 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+15:12:47.222 [main] ERROR testCases.TC001_AccountRegistrationTest - Test failed..
+15:17:06.440 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\tanve\eclipse-workspace\OpencartV121\grouping.xml
+
+15:17:10.826 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Starting TC001_AccountRegistrationTest *******
+15:17:10.918 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link..
+15:17:11.622 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link..
+15:17:11.624 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+15:17:12.883 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+15:17:22.958 [main] ERROR testCases.TC001_AccountRegistrationTest - Test failed..
+15:18:13.613 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\tanve\eclipse-workspace\OpencartV121\grouping.xml
+
+15:18:18.140 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Starting TC001_AccountRegistrationTest *******
+15:18:18.228 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link..
+15:18:18.933 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link..
+15:18:18.936 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+15:18:20.416 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+15:18:20.451 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Finished TC001_AccountRegistrationTest *******
+15:22:29.419 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\tanve\eclipse-workspace\OpencartV121\grouping.xml
+
+15:22:34.599 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Starting TC001_AccountRegistrationTest *******
+15:22:34.679 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link..
+15:22:35.400 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link..
+15:22:35.407 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+15:22:36.944 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+15:22:36.978 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Finished TC001_AccountRegistrationTest *******
+15:22:40.798 [main] INFO  testCases.TC002_LoginTest - ****** Starting TC002_LoginTest *******
+15:22:42.429 [main] INFO  testCases.TC002_LoginTest - ****** Finished TC002_LoginTest *******
+15:23:43.331 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\tanve\eclipse-workspace\OpencartV121\grouping.xml
+
+15:23:47.813 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Starting TC001_AccountRegistrationTest *******
+15:23:47.904 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link..
+15:23:48.599 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link..
+15:23:48.603 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+15:23:50.029 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+15:23:50.075 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Finished TC001_AccountRegistrationTest *******
+15:23:53.834 [main] INFO  testCases.TC002_LoginTest - ****** Starting TC002_LoginTest *******
+15:26:39.690 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\tanve\eclipse-workspace\OpencartV121\grouping.xml
+
+15:26:43.956 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Starting TC001_AccountRegistrationTest *******
+15:26:44.070 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link..
+15:26:44.770 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link..
+15:26:44.773 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+15:26:46.273 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+15:26:46.317 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Finished TC001_AccountRegistrationTest *******
+15:26:50.096 [main] INFO  testCases.TC002_LoginTest - ****** Starting TC002_LoginTest *******
+15:35:06.419 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\tanve\eclipse-workspace\OpencartV121\test-output\testng-failed.xml
+
+15:35:10.936 [main] INFO  testCases.TC002_LoginTest - ****** Starting TC002_LoginTest *******
+00:29:06.754 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\tanve\eclipse-workspace\OpencartV121\crossbrowsertesting.xml
+
+00:29:07.220 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ****** Starting TC001_AccountRegistrationTest *******
+00:30:29.479 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\tanve\eclipse-workspace\OpencartV121\crossbrowsertesting.xml
+
+00:30:29.784 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ****** Starting TC001_AccountRegistrationTest *******
+02:02:54.305 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\tanve\eclipse-workspace\OpencartV121\grid-docker.xml
+
+02:03:03.548 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ****** Starting TC001_AccountRegistrationTest *******
+02:03:03.673 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link..
+02:03:04.485 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link..
+02:03:04.491 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+02:03:17.441 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ****** Starting TC001_AccountRegistrationTest *******
+02:03:18.316 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link..
+02:03:21.527 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link..
+02:03:21.528 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+02:05:28.788 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\tanve\eclipse-workspace\OpencartV121\grid-docker.xml
+
+02:08:03.587 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ****** Starting TC001_AccountRegistrationTest *******
+02:08:03.686 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link..
+02:08:04.437 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link..
+02:08:04.440 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+02:08:05.970 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+02:08:06.027 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ****** Finished TC001_AccountRegistrationTest *******
+02:08:16.103 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ****** Starting TC001_AccountRegistrationTest *******
+02:08:16.404 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link..
+02:08:17.401 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link..
+02:08:17.403 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+02:08:18.419 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+02:08:28.439 [TestNG-tests-2] ERROR testCases.TC001_AccountRegistrationTest - Test failed..
+02:52:12.989 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\tanve\eclipse-workspace\OpencartV121\grid-docker.xml
+
+02:52:19.694 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - ****** Starting TC002_LoginTest *******
+02:52:23.372 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - ****** Starting TC002_LoginTest *******
+02:52:25.246 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - ****** Finished TC002_LoginTest *******
