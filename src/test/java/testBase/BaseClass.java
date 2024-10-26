@@ -81,7 +81,7 @@ public class BaseClass {
 		}
 
 		// for running test on local environment
-		if (p.getProperty("execution_env").equalsIgnoreCase("remote")) {
+		if (p.getProperty("execution_env").equalsIgnoreCase("local")) {
 			switch (br.toLowerCase()) {
 			case "chrome":
 				driver = new ChromeDriver();
